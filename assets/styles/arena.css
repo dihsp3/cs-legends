@@ -1,0 +1,14 @@
+.arena {
+    background-color: rgb(43, 39, 39);
+    height: 100px;
+    background-image: url(../image/5a7df6bc0e50c.jpg);
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 0;
+    font-weight: 500;
+    line-height: 28px;
+}
